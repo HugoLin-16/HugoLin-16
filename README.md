@@ -2,9 +2,9 @@
 
 <br/>
 
-- 👨🏻‍💻 Current Software Engineer at Solidigm
-- 🎓 Graguated from UC Davis with Computer Science Major
-- 🎓 Currently pursing a Master's degree at University of Illinois - Urbana Champaign
+- 👨🏻‍💻 Current software engineer intern at METY Technology
+- 🎓 Graduated from UC Davis with a Computer Science Major
+- 🎓 Currently pursuing a Master's degree at the University of Illinois - Urbana Champaign
 - 🏸 Exercise: I Love Playing Badminton and gym
 <br/>
 
